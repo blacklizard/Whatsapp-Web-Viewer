@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: blacklizard
+        psr4_prefix: blacklizard
+        src_path: app
